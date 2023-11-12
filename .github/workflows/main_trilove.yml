@@ -54,4 +54,4 @@ jobs:
           app-name: 'Trilove'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FF2E9B5041114DEBB79ED1C9C27A2943 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7E824EE172F044AFAA300DC90CAD65D2 }}
